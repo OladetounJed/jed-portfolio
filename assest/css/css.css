@@ -1,0 +1,153 @@
+html {
+    background-color: rgba(219, 212, 50, 0.75);
+    backdrop-filter: blur(4px);
+    size: 100%;
+    margin: 0;
+    isolation: isolate;
+}
+
+.nav-link{
+    text-align: center;
+
+}
+
+.nav-link-left , .nav-link-center {
+    text-decoration: none;
+    color: black;
+    font-family: 'Reem Kufi', sans-serif;
+    text-align: center;
+    margin-right: 8%;
+}
+
+.nav-link-left {
+    font-family: 'Revalia', cursive;
+    float: left;
+    margin-left: 1% ;
+
+}
+
+
+.home-img {
+
+    border-radius: 150px;
+    width: 260px;
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+
+}
+
+.home-info-header {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.home-info-text {
+    text-align: center;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;
+    
+}
+
+
+/* About Me Styling */
+
+.about-me-con {
+    margin: 3% 0 0 6%;
+}
+
+.about-me-col {
+    float: left;
+    width: 50%;
+    margin-top: 3%;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: justify;
+    letter-spacing: 0.06em;
+   
+    
+
+}
+
+.about-me-col-header{
+    margin-bottom: 6%;
+}
+
+.about-me-header {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.about-me-content {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    line-height: 35px;
+    text-align: justify;
+    letter-spacing: 0.06em;
+
+}
+
+/* Contact Styling */
+
+.contact-con {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.contact-message {
+    font-size: 25px;
+    line-height: 35px;
+    font-family: Abhaya Libre;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.contact-textarea {
+    width: 500px;
+    height: 180px;
+    background-color: transparent;
+    border-color: black;
+}
+
+.contact-btn {
+    display: block;
+    background-color: transparent;
+    border-color: black;
+    box-sizing: border-box;
+    border-radius: 50px;
+    width: 98px;
+    height: 31px;
+    margin-left: 61.6%;
+    margin-top: 1%;
+    font-family: Amaranth;
+    font-weight: bold;
+    font-size: 10px;
+
+}
+
+/* Resume Styling*/
+
+span {
+    margin-left: 60%;
+}
+
+.resume-con {
+    font-family: Ubuntu;
+    margin: 3%;
+    line-height: 30px;
+}
+
+.skill-set p {
+
+}
